@@ -16,7 +16,7 @@
 ![1_Erk4NawQOHkf4wSN7JmB_A](https://user-images.githubusercontent.com/80762335/194613668-c1ef88c3-31a8-4ffb-bbe0-a7a59f8e2ed7.jpeg)
 
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
-
+ -->
