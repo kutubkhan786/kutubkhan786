@@ -2,10 +2,7 @@
 ![1_cxueL722-cuMCKlrfAWuwQ](https://user-images.githubusercontent.com/80762335/194612206-da0c8f61-8c9d-4563-b466-56601b3e0aa4.gif)
 
 
-### Hi there 👋
 # 💫 About Me:
-🔭 I’m currently working on android development<br>👯 I’m looking to collaborate on any open-source project<br>🤝 I’m looking for help with python and android development<br>🌱 I’m currently in B.E IT third year<br>💬 Ask me anything related technologies i know <br>⚡ Fun fact I am an anime fan
-
 * 👂 My name is Kutubkhan merchant...
 * 🔭 I’m currently working on Backend-Development and data science ...
 * 🌱 I’m currently Persuing Under Graduate Degree In IT Field ...
