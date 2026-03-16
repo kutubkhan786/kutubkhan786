@@ -12,7 +12,7 @@
 * 🌐 Full-stack development using **React, Next.js, Node.js, Django & Laravel**
 * 🧠 Interested in **scalable backend architecture and microservices**
 * 🤝 Open to collaborating on **SaaS platforms, automation systems, and backend infrastructure**
-* 📫 Reach me at **merkutub786@gmail.com**
+* 📫 Reach me at **kutubmerchant598@gmail.com**
 * ⚡ Fun fact: I enjoy building systems that automate real-world workflows
 
 ---
