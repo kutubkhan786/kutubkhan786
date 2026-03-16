@@ -1,42 +1,94 @@
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=Kutubkhan+Merchant;Software+Engineer+%7C+Backend+Developer;SaaS+Platform+Builder;API+Integration+Specialist"/>
+</p>
 
-![1_cxueL722-cuMCKlrfAWuwQ](https://user-images.githubusercontent.com/80762335/194612206-da0c8f61-8c9d-4563-b466-56601b3e0aa4.gif)
+# 💫 About Me
+* 👋 My name is **Kutubkhan Merchant**
+* 💼 Software Engineer & Team Lead at **Implevision Technologies Pvt Ltd**
+* 🔭 Currently working on **Backend Systems, SaaS Platforms, and API Integrations**
+* 🧾 Core contributor to **Mocha Signature – an E-Signature SaaS Platform**
+* 🔐 Working on **Single Sign-On (SSO) and centralized authentication systems**
+* 📱 Developing **WhatsApp Business API integrations and automation workflows**
+* 🌐 Full-stack development using **React, Next.js, Node.js, Django & Laravel**
+* 🧠 Interested in **scalable backend architecture and microservices**
+* 🤝 Open to collaborating on **SaaS platforms, automation systems, and backend infrastructure**
+* 📫 Reach me at **merkutub786@gmail.com**
+* ⚡ Fun fact: I enjoy building systems that automate real-world workflows
 
+---
 
-# 💫 About Me:
-* 👂 My name is Kutubkhan merchant...
-* 🔭 I’m currently working on Backend-Development and data science ...
-* 🌱 I’m currently Persuing Under Graduate Degree In IT Field ...
-* 🤝 I’m looking to collaborate on my future projects based on data science ...
-* 🤔 I’m looking for internship ...
-* 💬 Skills python  ...
-* 📫 How to reach me: merkutub786@gmail.com ...
-* ❤️ I love python ...
-* ⚡ Fun fact: i am technocrat ...!'
+# 💻 Tech Stack
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![NodeJS](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![NextJS](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
+---
 
+# 🚀 Featured Projects
 
+### 🔹 Mocha Signature
+SaaS E-Signature platform with document workflows, signing APIs and recipient management.
 
+---
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/trek_nerd_kutub) 
+### 🔹 Futurix Technologies Website
+🌐 https://futurixtechnologies.in
 
+Corporate website for Futurix Technologies.
 
+---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kutubkhan786&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=kutubkhan786&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kutubkhan786&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### 🔹 MMT Fabricators Website
+🌐 https://mmtfabricators.com
 
-### ✍️ Random Dev Quote
+Industrial fabrication company website.
+
+---
+
+# 🏆 Achievements
+
+🏅 **Finalist — Smart India Hackathon**
+
+🏅 **9th Rank — ResCon 2024 at IIT Bombay**
+
+🏅 **Rank 70 — AWS DeepRacer League**
+
+---
+
+# 🌐 Socials
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/trek_nerd_kutub)
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=kutubkhan786&theme=dark&hide_border=false)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=kutubkhan786&theme=dark&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kutubkhan786&theme=dark&layout=compact)
+
+---
+
+# ✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=kutubkhan786&icon=0&color=0)](https://visitcount.itsvg.in)
 
- <p align="center">
-<img src="https://user-images.githubusercontent.com/80762335/194613668-c1ef88c3-31a8-4ffb-bbe0-a7a59f8e2ed7.jpeg"/>
+<p align="center">
+<img src="https://visitcount.itsvg.in/api?id=kutubkhan786&icon=0&color=0"/>
 </p>
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/80762335/194613668-c1ef88c3-31a8-4ffb-bbe0-a7a59f8e2ed7.jpeg"/>
+</p>
